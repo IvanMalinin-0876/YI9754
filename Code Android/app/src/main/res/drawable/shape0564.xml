@@ -6,13 +6,13 @@
 
     <gradient
         android:angle="90"
-        android:endColor="#4041C511"
-        android:startColor="#32915724"
+        android:endColor="#7E3D54A3"
+        android:startColor="#7420C84A"
         android:type="linear" />
 
     <stroke
         android:width="2dp"
-        android:color="#542471BF" />
+        android:color="#E91E63" />
 
     <padding
         android:bottom="15dp"

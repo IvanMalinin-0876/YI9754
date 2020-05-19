@@ -130,8 +130,10 @@
                 android:layout_marginTop="8dp"
 
                 android:layout_marginEnd="8dp"
-                android:textColor="@android:color/primary_text_light_nodisable"
-                android:textSize="20sp" />
+                android:textAlignment="center"
+                android:textColor="?android:attr/colorForegroundInverse"
+                android:textSize="20sp"
+                android:textStyle="bold" />
         </LinearLayout>
     </ScrollView>
 
